@@ -1,7 +1,7 @@
 <template>
 	<div class="slogen-box">
 		<div class="slogen">
-			<div class="slogen-head">武汉达冠 · 知识产权代理</div>
+			<div class="slogen-head">武汉达冠 · 知识产权</div>
 			<div class="slogen-body">武汉达冠知识产权代理有限公司竭诚为您服务</div>
 			<!-- <div class="slogen-foot">武汉达冠知识产权代理有限公司竭诚为您服务</div> -->
 		</div>
