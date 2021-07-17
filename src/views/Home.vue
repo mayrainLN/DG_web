@@ -58,7 +58,7 @@
 			<div class="section" id="page2">
 				<Swiper></Swiper>
 				<div id="about-us" @click="this.$refs.fullpage.api.moveSectionDown()">
-					关于我们
+					关于我们1111
 				</div>
 				<About-us class="introduction"> </About-us>
 			</div>
